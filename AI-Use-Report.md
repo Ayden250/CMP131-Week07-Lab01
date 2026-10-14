@@ -2,10 +2,10 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name: Ayden
+- Week: 7
+- Lab: 1
+- Date: 10/14
 
 ## AI Use
 
