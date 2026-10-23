@@ -5,6 +5,5 @@
 #calories
 #10/23
 calories_burned_per_minute= 3.6
-input(float("number_of_minutes: "))
-input(float("calories_burned_total: "))
-while(
+number_of_minutes= 5
+while(number_of_minutes<5 or 
