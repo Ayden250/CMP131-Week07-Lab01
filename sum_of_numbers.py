@@ -8,7 +8,8 @@ integer= 0
 input(int("Enter a positive integer: "))
 while(integer<=0):
   print("Inavlid number") 
-  if(input(int("Enter a positive integer: ">0)):
+  if(integer>=0):
      print(+1)
   while(integer+1):
-    print(
+    print("will stop at given number")
+  
